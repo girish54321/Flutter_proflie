@@ -1,5 +1,8 @@
 # profile_app
 
+
+<img src="profileApp1.gif" width="300"  />
+
 A new Flutter application.
 
 ## Getting Started
